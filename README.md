@@ -1,5 +1,7 @@
 Intro y requisitos previos
 --------------------------
+-Proyecto hecho en el curso de React de la plataforma online de formación platzi.com
+
 -React es una librería de JS, se instala mediante npm. Ver npmjs.com
 -Para instalar npm, hay que instalar nodejs (que contiene npm). Ver nodejs.org
 
