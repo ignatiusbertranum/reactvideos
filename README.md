@@ -4,7 +4,6 @@ Intro y requisitos previos
 
 -React es una librería de JS, se instala mediante npm. Ver npmjs.com
 -Para instalar npm, hay que instalar nodejs (que contiene npm). Ver nodejs.org
-
 -Para empezar una aplicación React, se puede usar un boilerplate (estructura mínima).
 Ejemplo: https://github.com/facebook/create-react-app
 
